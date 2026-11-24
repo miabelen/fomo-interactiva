@@ -1,0 +1,1 @@
+FOMO 7.12 — Corrección de navegación entre pestañas. Abrí INICIAR_FOMO.bat. Cada intervención mantiene su pantalla hasta confirmar. El resultado se abre cuando las tres confirmaron. Reiniciar borra la ronda. Prueba local: mismo navegador y origen.

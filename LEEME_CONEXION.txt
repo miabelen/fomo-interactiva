@@ -1,0 +1,11 @@
+FOMO MULTICOMPUTADORA
+
+Para computadoras en diferentes lugares, publicar esta carpeta en un servicio que ejecute Node.js (por ejemplo Render Web Service). Comando: npm start. No es un sitio estático.
+
+Abrir en cada computadora la MISMA URL PUBLICA seguida de /color.html, /movimiento.html, /forma.html. Abrir /resultado.html en el proyector.
+
+El botón Reiniciar de Resultado limpia las decisiones de todas las computadoras.
+
+Prueba local: instalar Node.js y ejecutar INICIAR_SERVIDOR.bat; abrir http://localhost:3000.
+
+IMPORTANTE: el estado está en memoria. Si el servicio se reinicia, se borra la ronda. En planes gratuitos puede suspenderse el servidor. Para una presentación crítica, usar un servidor estable. La URL debe mantenerse privada porque no hay autenticación.
